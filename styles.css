@@ -126,7 +126,7 @@ ul, ol { list-style: none; }
   color: var(--text-muted);
 }
 .main-nav a { transition: color 0.15s ease; }
-.main-nav a:hover { color: var(--text); }
+.main-nav a:hover { color: var(--amber); }
 
 .nav-cta { flex-shrink: 0; }
 
@@ -561,9 +561,10 @@ section { padding: 96px clamp(20px, 5vw, 64px); }
 .footer__bottom {
   max-width: var(--max-width);
   margin: 0 auto;
+  text-align: center;
   padding-top: 20px;
   border-top: 1px solid var(--border-soft);
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   color: var(--text-faint);
   font-family: var(--font-mono);
 }

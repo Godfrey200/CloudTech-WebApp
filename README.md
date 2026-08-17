@@ -1,5 +1,4 @@
 # TechCrush — CloudTech-WebApp
-
 Learn cloud the way it's actually run in production. This repository contains the TechCrush marketing/homepage: a small, responsive static site demonstrating the program, curriculum, pipeline metaphor, and a simple cohort signup form. The site is authored with plain HTML, CSS and vanilla JavaScript and is designed to be deployed as a static site (example: Azure Static Web Apps).
 
 ## Quick demo
