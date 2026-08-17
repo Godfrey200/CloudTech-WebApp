@@ -1,4 +1,3 @@
-# CloudTech-WebApp
 # TechCrush — CloudTech-WebApp
 
 Learn cloud the way it's actually run in production. This repository contains the TechCrush marketing/homepage: a small, responsive static site demonstrating the program, curriculum, pipeline metaphor, and a simple cohort signup form. The site is authored with plain HTML, CSS and vanilla JavaScript and is designed to be deployed as a static site (example: Azure Static Web Apps).
@@ -19,8 +18,6 @@ Open index.html in your browser or run a simple static server (see How to run).
 - Notable libraries/services: Google Fonts; intended for Azure Static Web Apps deployment
 
 ## Repository layout
-
-cde:
 
 How it fits together:
 - index.html is the single-page markup. styles.css contains the full visual system (tokens, layout, components). script.js wires the hero terminal animation, the scroll progress rail and the cohort signup placeholder. The site is static — no server-side code — and can be hosted on any static host or CDN.
